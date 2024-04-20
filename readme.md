@@ -1,6 +1,12 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=50% src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" />
 &nbsp;&nbsp;&nbsp;
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndersonN031&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonN031&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <p align="center">## Hello, World! ✌. <br><br> My name is Anderson Nunes and I'm a full-stack web developer from Caruaru, Pernambuco. I like programming and creating websites and applications that interact and solve real-world problems.</p>&nbsp;
 
@@ -9,8 +15,6 @@
  
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
