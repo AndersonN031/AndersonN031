@@ -1,5 +1,6 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=50% src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" />
-&nbsp;&nbsp;&nbsp;
+<img style="display: block; margin: 0 auto; object-fit: contain;" width="100%" src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" />
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndersonN031&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
