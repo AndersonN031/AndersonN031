@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">## Hello, World! ✌. <br><br> My name is Anderson Nunes and I'm a full-stack web developer from Caruaru, Pernambuco. I like programming and creating websites and applications that interact and solve real-world problems.</p>&nbsp;
+<p align="center">## Hello, World! ✌. <br><br> My name is Anderson Nunes and I'm a web developer from Caruaru, Pernambuco. I like programming and creating websites and applications that interact and solve real-world problems.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  </div>
