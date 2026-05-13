@@ -1,60 +1,36 @@
 <div align="center">
 
-![Anderson Nunes - Full-Stack Developer](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1026,45:5B21B6,100:00D9FF&text=ANDERSON%20NUNES&fontColor=F8FAFC&fontSize=54&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Node.js%20%7C%20React%20%7C%20TypeScript&descAlignY=55&descSize=16)
+![Anderson Nunes - Desenvolvedor Full-Stack](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1026,45:5B21B6,100:00D9FF&text=ANDERSON%20NUNES&fontColor=F8FAFC&fontSize=54&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%7C%20Node.js%20%7C%20React%20%7C%20TypeScript&descAlignY=55&descSize=16)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devanderson.vercel.app-00D9FF?style=for-the-badge&labelColor=0B1026)](https://devanderson.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-devanderson.vercel.app-00D9FF?style=for-the-badge&labelColor=0B1026)](https://devanderson.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devandersonnunes-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1026)](https://linkedin.com/in/devandersonnunes)
-[![Email](https://img.shields.io/badge/Email-devandersonnunes078%40gmail.com-F43F5E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1026)](mailto:devandersonnunes078@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-devandersonnunes078%40gmail.com-F43F5E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1026)](mailto:devandersonnunes078@gmail.com)
 
 <br />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=820&lines=I+build+systems+that+stay+fast+under+pressure.;Clean+architecture.+Real-time+apps.+Scalable+products.;From+Caruaru%2C+Pernambuco+to+the+world.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=820&lines=Construindo+sistemas+que+continuam+r%C3%A1pidos+sob+press%C3%A3o.;Arquitetura+limpa.+Apps+em+tempo+real.+Produtos+escal%C3%A1veis.;De+Caruaru%2C+Pernambuco+para+o+mundo.)
 
 </div>
 
 <br />
 
-## System Profile
+## Perfil do Sistema
 
 ```ts
 const anderson = {
-  role: "Full-Stack Developer",
-  basedIn: "Caruaru, Pernambuco - Brazil",
+  cargo: "Desenvolvedor Full-Stack",
+  localizacao: "Caruaru, Pernambuco - Brasil",
   stack: ["Node.js", "NestJS", "React", "TypeScript"],
-  architecture: ["Hexagonal Architecture", "Modular Monolith", "Repository Pattern"],
-  building: ["delivery platforms", "material management systems", "real-time apps"],
-  mindset: "low coupling, testability, performance and product impact",
-  availableFor: "remote opportunities and meaningful projects",
+  arquitetura: ["Arquitetura Hexagonal", "Monolito Modular", "Repository Pattern"],
+  construindo: ["plataformas de delivery", "sistemas de gestão", "apps em tempo real"],
+  mentalidade: "baixo acoplamento, testes, performance e impacto no produto",
+  disponivelPara: "oportunidades remotas e projetos com propósito",
 };
 ```
 
 <br />
 
-## What I Bring To The Table
-
-<table>
-  <tr>
-    <td width="33%">
-      <strong>Backend architecture</strong>
-      <br />
-      Domain-driven use cases, ports and adapters, repository pattern, clean modules and APIs that are easy to evolve.
-    </td>
-    <td width="33%">
-      <strong>Real-time product flows</strong>
-      <br />
-      WebSocket sync, Redis cache strategies, event-driven thinking and production-focused performance improvements.
-    </td>
-    <td width="33%">
-      <strong>Frontend delivery</strong>
-      <br />
-      React and Next.js interfaces with typed forms, predictable state, clean UX and maintainable component structure.
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## Core Stack
+## Stack Principal
 
 <div align="center">
 
@@ -66,7 +42,7 @@ const anderson = {
 
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind,vite&theme=dark)
 
-### Database, Tools And Infrastructure
+### Banco de Dados, Ferramentas e Infraestrutura
 
 ![Infra](https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,github,linux,vercel&theme=dark)
 
@@ -83,86 +59,57 @@ const anderson = {
 
 <br />
 
-## Experience
+## Experiência
 
-### Bear Systems - Full-Stack Developer
+### Bear Systems - Desenvolvedor Full-Stack
 
-`2025 - 2026` `Remote`
+`2025 - 2026` `Remoto`
 
-Delivery platform for orders, products, categories and companies at scale.
+Plataforma de delivery para pedidos, produtos, categorias e empresas em escala.
 
-- Implemented Hexagonal Architecture with Ports and Adapters to isolate domain logic from infrastructure.
-- Introduced a Redis cache layer for carts, reducing database pressure during traffic peaks.
-- Built real-time cart sync for web and mobile using Socket.IO and Redis.
-- Developed authentication flows with JWT and Twilio SMS validation.
-- Delivered frontend features with Next.js, Zustand, Zod, Shadcn UI and Radix UI.
+- Implementei Arquitetura Hexagonal com Ports and Adapters para isolar a lógica de domínio da infraestrutura.
+- Introduzi uma camada de cache com Redis para carrinhos, reduzindo a pressão no banco durante picos de acesso.
+- Construí sincronização de carrinho em tempo real para web e mobile usando Socket.IO e Redis.
+- Desenvolvi fluxos de autenticação com JWT e validação por SMS via Twilio.
+- Entreguei funcionalidades no frontend com Next.js, Zustand, Zod, Shadcn UI e Radix UI.
 
 `NestJS` `TypeScript` `Prisma` `PostgreSQL` `Redis` `WebSocket` `JWT` `Twilio` `Next.js` `Docker`
 
 <br />
 
-### Bluelogic Sistemas - Full-Stack Developer
+### Bluelogic Sistemas - Desenvolvedor Full-Stack
 
-`2024 - 2025` `PJ Remote`
+`2024 - 2025` `PJ Remoto`
 
-Material management system focused on reliability for supply chain workflows.
+Sistema de gestão de materiais com foco em confiabilidade para fluxos de supply chain.
 
-- Fixed critical bugs in material requisition flows using NestJS and MongoDB.
-- Solved a race condition that generated duplicate shipment codes under concurrent requests.
-- Used database transactions and locks to guarantee unique codes per request.
-- Built React and TypeScript interfaces for resource management workflows.
+- Corrigi bugs críticos em fluxos de requisição de materiais usando NestJS e MongoDB.
+- Resolvi uma race condition que gerava códigos de remessa duplicados em requisições simultâneas.
+- Usei transações e locks no banco para garantir códigos únicos por solicitação.
+- Construí interfaces com React e TypeScript para fluxos de gerenciamento de recursos.
 
 `NestJS` `MongoDB` `React` `TypeScript` `REST APIs`
 
 <br />
 
-## Architecture Style
+## Princípios de Engenharia
 
-```txt
-External world
-  |
-  |-- HTTP controllers
-  |-- WebSocket gateways
-  |-- SMS providers
-  |-- Databases and cache
-  |
-Application core
-  |
-  |-- Use cases
-  |-- Domain entities
-  |-- Business rules
-  |-- Ports
-  |
-Infrastructure
-  |
-  |-- Prisma repositories
-  |-- Redis adapters
-  |-- Twilio adapters
-  |-- API clients
-```
-
-I like codebases where business rules are protected, dependencies point inward, and tests can validate behavior without needing the whole world running.
-
-<br />
-
-## Engineering Principles
-
-| Principle | How I Apply It |
+| Princípio | Como aplico |
 | --- | --- |
-| Low coupling | Domain rules do not depend on frameworks or infrastructure details. |
-| Testability first | Use cases are designed to be tested in isolation. |
-| Performance awareness | Caching, concurrency control and database pressure are treated as product concerns. |
-| Clear documentation | Code should explain intent, not just implementation. |
-| Continuous improvement | I actively propose technical upgrades when they reduce risk or unlock velocity. |
+| Baixo acoplamento | Regras de domínio não dependem de frameworks ou detalhes de infraestrutura. |
+| Testabilidade primeiro | Casos de uso são pensados para serem testados de forma isolada. |
+| Performance como produto | Cache, concorrência e pressão no banco são tratados como parte da experiência. |
+| Clareza técnica | Código deve comunicar intenção, não apenas implementação. |
+| Melhoria contínua | Proponho evoluções técnicas quando elas reduzem risco ou aumentam velocidade. |
 
 <br />
 
-## GitHub Signal
+## Sinal do GitHub
 
 <div align="center">
 
-<img height="178" src="https://github-readme-stats.vercel.app/api?username=AndersonN031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1026&title_color=00D9FF&icon_color=F43F5E&text_color=E5E7EB" alt="GitHub stats" />
-<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonN031&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00D9FF&text_color=E5E7EB" alt="Top languages" />
+<img height="178" src="https://github-readme-stats.vercel.app/api?username=AndersonN031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1026&title_color=00D9FF&icon_color=F43F5E&text_color=E5E7EB" alt="Estatísticas do GitHub" />
+<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonN031&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00D9FF&text_color=E5E7EB" alt="Linguagens mais usadas" />
 
 <br />
 <br />
@@ -173,31 +120,31 @@ I like codebases where business rules are protected, dependencies point inward, 
 
 <br />
 
-## Current Focus
+## Foco Atual
 
 ```txt
-> Building APIs that scale cleanly.
-> Designing interfaces that make complex flows feel simple.
-> Turning architecture decisions into business reliability.
+> Construindo APIs que escalam com clareza.
+> Criando interfaces que tornam fluxos complexos mais simples.
+> Transformando decisões de arquitetura em confiabilidade de negócio.
 ```
 
 <br />
 
 <div align="center">
 
-### Let's Build Something That Feels Solid In Production
+### Vamos Construir Algo Sólido Em Produção
 
-I am open to remote opportunities, backend-heavy products, full-stack challenges and teams that care about craft.
-
-<br />
-
-[![See My Work](https://img.shields.io/badge/See_my_work-Portfolio-00D9FF?style=for-the-badge&labelColor=0B1026)](https://devanderson.vercel.app)
-[![Talk To Me](https://img.shields.io/badge/Talk_to_me-LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1026)](https://linkedin.com/in/devandersonnunes)
+Estou aberto a oportunidades remotas, produtos com forte demanda de backend, desafios full-stack e times que valorizam qualidade técnica.
 
 <br />
+
+[![Ver meu trabalho](https://img.shields.io/badge/Ver_meu_trabalho-Portf%C3%B3lio-00D9FF?style=for-the-badge&labelColor=0B1026)](https://devanderson.vercel.app)
+[![Falar comigo](https://img.shields.io/badge/Falar_comigo-LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1026)](https://linkedin.com/in/devandersonnunes)
+
+<br />
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=AndersonN031&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=AndersonN031&color=00D9FF&style=flat-square&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D9FF,45:5B21B6,100:0B1026)
 
