@@ -22,7 +22,7 @@
 
 </div>
 
-Atualmente estou desenvolvendo um projeto comunitário de fila virtual para posto de saúde, com foco em organizar o atendimento, reduzir espera desnecessária e tornar o fluxo mais claro para pacientes e equipe.
+Atualmente estou desenvolvendo um projeto pessoal comunitário de fila virtual para posto de saúde, com foco em organizar o atendimento, reduzir espera desnecessária e tornar o fluxo mais claro para pacientes e equipe.
 
 Esse projeto representa bem o tipo de produto que gosto de construir: tecnologia aplicada a um problema real, com impacto direto na rotina das pessoas.
 
