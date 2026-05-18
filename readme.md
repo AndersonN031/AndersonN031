@@ -8,9 +8,23 @@
 
 <br />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=820&lines=Construindo+sistemas+que+continuam+r%C3%A1pidos+sob+press%C3%A3o.;Arquitetura+limpa.+Apps+em+tempo+real.+Produtos+escal%C3%A1veis.;De+Caruaru%2C+Pernambuco+para+o+mundo.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=820&lines=Projeto+comunit%C3%A1rio%3A+fila+virtual+para+posto+de+sa%C3%BAde.;Construindo+sistemas+que+continuam+r%C3%A1pidos+sob+press%C3%A3o.;Arquitetura+limpa.+Apps+em+tempo+real.+Produtos+escal%C3%A1veis.)
 
 </div>
+
+<br />
+
+## Projeto em Destaque
+
+<div align="center">
+
+![Projeto comunitário](https://img.shields.io/badge/Projeto_comunit%C3%A1rio-Fila_virtual_para_posto_de_sa%C3%BAde-00D9FF?style=for-the-badge&labelColor=0B1026)
+
+</div>
+
+Atualmente estou desenvolvendo um projeto comunitário de fila virtual para posto de saúde, com foco em organizar o atendimento, reduzir espera desnecessária e tornar o fluxo mais claro para pacientes e equipe.
+
+Esse projeto representa bem o tipo de produto que gosto de construir: tecnologia aplicada a um problema real, com impacto direto na rotina das pessoas.
 
 <br />
 
@@ -21,6 +35,7 @@ const anderson = {
   cargo: "Desenvolvedor Full-Stack",
   localizacao: "Caruaru, Pernambuco - Brasil",
   stack: ["Node.js", "NestJS", "React", "TypeScript"],
+  projetoAtual: "Fila virtual comunitária para posto de saúde",
   arquitetura: ["Arquitetura Hexagonal", "Monolito Modular", "Repository Pattern"],
   construindo: ["plataformas de delivery", "sistemas de gestão", "apps em tempo real"],
   mentalidade: "baixo acoplamento, testes, performance e impacto no produto",
